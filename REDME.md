@@ -4,7 +4,7 @@
 1. MapBox
 2. OpenWeather
 
-## Ejecuciòn de la aplicacion
+## Ejecución de la aplicacion
 ```console
 npm install
 npm start
